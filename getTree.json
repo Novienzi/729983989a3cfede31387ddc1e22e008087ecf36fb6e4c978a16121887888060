@@ -1,0 +1,109 @@
+{
+    "name": "root",
+    "children": [
+        {
+            "name": "William",
+            "children": [
+                {
+                    "name": "Richard",
+                    "children": [
+                        {
+                            "name": "Summer",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Ryan",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Jessica",
+            "children": [
+                {
+                    "name": "Marge",
+                    "children": [
+                        {
+                            "name": "Geraldine",
+                            "children": [
+                                {
+                                    "name": "Drake",
+                                    "children": []
+                                }
+                            ]
+                        },
+                        {
+                            "name": "John",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "Samantha",
+            "children": [
+                {
+                    "name": "James",
+                    "children": []
+                },
+                {
+                    "name": "April",
+                    "children": [
+                        {
+                            "name": "Bach",
+                            "children": []
+                        }
+                    ]
+                },
+                {
+                    "name": "Charles",
+                    "children": []
+                }
+            ]
+        },
+        {
+            "name": "Maya",
+            "children": [
+                {
+                    "name": "Gerald",
+                    "children": []
+                },
+                {
+                    "name": "Andrea",
+                    "children": [
+                        {
+                            "name": "Dean",
+                            "children": []
+                        },
+                        {
+                            "name": "Andre",
+                            "children": [
+                                {
+                                    "name": "Neil",
+                                    "children": [
+                                        {
+                                            "name": "Derp",
+                                            "children": [
+                                                {
+                                                    "name": "Derpina",
+                                                    "children": []
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
+                            "name": "Josephine",
+                            "children": []
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

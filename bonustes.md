@@ -1,0 +1,2 @@
+-- tabel parent dapat dipisah dan dihubungkan menggunakan relational database (foreign key)
+-- 

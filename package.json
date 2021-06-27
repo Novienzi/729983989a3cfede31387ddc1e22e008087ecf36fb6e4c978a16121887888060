@@ -1,0 +1,22 @@
+{
+  "name": "magnakarsamulya",
+  "version": "0.1.0",
+  "description": "this is test for magna karsa mulya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js || exit 0",
+    "dev": "nodemon --ignore db.json index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "humps": "^2.0.1",
+    "lodash": "^4.17.21",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.7",
+    "read-dir-deep": "^7.0.1"
+  }
+}
